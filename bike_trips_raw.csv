@@ -1,0 +1,521 @@
+trip_id,start_station,member_type,bike_type,age,duration_min,rating
+1017,north gate ,Member ,Classic,24.0,11.3,3.0
+1058,Library,CASUAL,Classic,16.0,15.1,-999.0
+1241,North Gate,casual,E-bike,43.0,29.9,4.0
+1354,gym ,casual,classic,16.0,8.2,-999.0
+1112,Library,member,Electric,43.0,19.1,4.0
+1297,main st, casual,Electric,31.0,5.1,-999.0
+1190,main st.,member,e-bike ,19.0,5.5,-999.0
+1434,Gym, casual,Classic,46.0,23.0,-999.0
+1429,GYM ,member,e-bike ,37.0,6.7,-999.0
+1249,main st,Casual,CLASSIC,39.0,15.7,-999.0
+1011,LIBRARY,Member ,e-bike ,27.0,12.3,-999.0
+1028,main st.,casual,Classic,40.0,28.7,-999.0
+1252,Main Street,member,Classic,-999.0,30.5,-999.0
+1291,north gate ,Member,E-bike,27.0,18.8,-999.0
+1135,Main St,member,Classic ,32.0,34.4,2.0
+1461,Library, casual,E-bike,45.0,11.1,-999.0
+1358,Main St,MEMBER ,Electric,40.0,9.3,-999.0
+1460,N. Gate,Casual,E-bike,34.0,29.7,-999.0
+1242,North Gate,MEMBER ,Classic ,22.0,17.3,-999.0
+1442,Main St,Casual,Classic ,-999.0,27.5,1.0
+1301,Rec Center,Casual,e-bike ,18.0,12.5,-999.0
+1302,north gate ,CASUAL,Electric,30.0,25.8,-999.0
+1015,Main St, casual,Classic,48.0,15.9,5.0
+1108,north gate , casual,Classic ,38.0,19.4,1.0
+1014,Library,casual,electric,30.0,12.9,1.0
+1465,North Gate,member,electric,30.0,-999.0,-999.0
+1198,N. Gate,CASUAL,e-bike ,32.0,18.8,-999.0
+1074,Library,casual,Electric,38.0,16.4,-999.0
+1162,NORTH GATE,member,electric,36.0,-999.0,-999.0
+1195,North Gate,Member,CLASSIC,35.0,34.3,-999.0
+1127,LIBRARY,Member ,classic,22.0,-999.0,-999.0
+1479,Main Street,CASUAL,Electric,20.0,10.0,-999.0
+1104,Main Street,Member ,E-bike,22.0,29.8,2.0
+1449,NORTH GATE,Casual,classic,24.0,12.2,3.0
+1038,North Gate,casual,electric,33.0,11.3,-999.0
+1102,LIBRARY,Member ,electric,39.0,19.6,-999.0
+1125, MAIN ST,member,e-bike ,50.0,29.8,4.0
+1342,North Gate,member,E-bike,31.0,21.5,1.0
+1133,Main St,MEMBER ,classic,39.0,-999.0,4.0
+1113,gym,Member,electric,31.0,38.5,-999.0
+1365,main st,casual,Classic ,24.0,35.9,-999.0
+1467,Main Street,CASUAL,classic,20.0,13.3,-999.0
+1081,north gate,MEMBER ,e-bike ,42.0,3.8,-999.0
+1082,LIBRARY,MEMBER ,Classic,55.0,5.7,-999.0
+1281,library ,CASUAL,classic,27.0,17.6,2.0
+1255,north gate ,MEMBER ,classic,28.0,23.1,-999.0
+1230,north gate ,Member,electric,-999.0,23.6,-999.0
+1437,Gym,Casual,CLASSIC,53.0,19.6,-999.0
+1211,Lib.,MEMBER ,Classic ,57.0,26.5,4.0
+1413,NORTH GATE,MEMBER ,Electric,39.0,15.9,-999.0
+1440,Main St,MEMBER ,e-bike ,35.0,14.1,2.0
+1307,main st.,MEMBER ,Classic,40.0,22.3,3.0
+1226,Library,MEMBER ,classic,16.0,27.3,-999.0
+1370, MAIN ST,Member ,E-bike,30.0,11.4,-999.0
+1385,Main St,Casual,E-bike,-999.0,9.9,2.0
+1128,Main St,Member ,Classic,51.0,8.3,1.0
+1131,Main Street,member,e-bike ,26.0,18.7,-999.0
+1320,library,CASUAL,classic,-999.0,19.1,1.0
+1145,NORTH GATE,Member,E-bike,16.0,24.1,-999.0
+1165,North Gate,member,E-bike,21.0,11.8,3.0
+1300,N. Gate,MEMBER ,Classic,38.0,12.8,-999.0
+1466,Rec Center, casual,Classic,27.0,16.2,-999.0
+1219,gym ,member,Classic,43.0,28.9,5.0
+1421,north gate,member,classic,35.0,10.1,-999.0
+1270,Gym, casual,Classic ,26.0,22.3,-999.0
+1334,Main St,MEMBER ,classic,22.0,-999.0,-999.0
+1269,Rec Center,CASUAL,Classic ,29.0,18.3,-999.0
+1263,North Gate,Member ,Electric,-999.0,17.8,-999.0
+1138,North Gate,CASUAL,electric,41.0,10.8,-999.0
+1340,main st., casual,Classic,16.0,22.0,-999.0
+1248,North Gate,Member,classic,-999.0,28.8,-999.0
+1041,Main St,CASUAL,Electric,16.0,23.1,2.0
+1052,main st, casual,Classic,19.0,38.2,-999.0
+1311,library ,member,CLASSIC,34.0,-999.0,-999.0
+1231,Main St,CASUAL,E-bike,22.0,16.5,2.0
+1044,Library,Member ,Classic,-999.0,10.9,1.0
+1059,Main St,member,E-bike,36.0,15.6,-999.0
+1468,North Gate,MEMBER ,classic,46.0,10.9,-999.0
+1372,Main Street,Member ,classic,30.0,37.2,-999.0
+1468,North Gate,MEMBER ,classic,46.0,10.9,-999.0
+1327,Main Street,CASUAL,Classic ,52.0,8.8,-999.0
+1067,library ,member,electric,23.0,14.2,-999.0
+1269,Rec Center,CASUAL,Classic ,29.0,18.3,-999.0
+1363,main st.,casual,Classic ,38.0,28.7,-999.0
+1240,gym ,Member,e-bike ,29.0,29.3,-999.0
+1088,gym,CASUAL,CLASSIC,38.0,-999.0,-999.0
+1368,Gym,Member,e-bike ,44.0,12.0,-999.0
+1480,Library,casual,classic,40.0,40.5,-999.0
+1449,NORTH GATE,Casual,classic,24.0,12.2,3.0
+1016,library, casual,Electric,18.0,16.7,-999.0
+1405,GYM ,Member,CLASSIC,42.0,12.2,1.0
+1137,Library,Member,E-bike,31.0,27.5,-999.0
+1379,Main St,Member ,Classic ,-999.0,21.4,4.0
+1391,library,Member ,Electric,18.0,6.7,1.0
+1068,LIBRARY,MEMBER ,Classic ,55.0,19.2,4.0
+1103,main st,member,e-bike ,38.0,20.4,-999.0
+1234,north gate , casual,Classic,34.0,12.0,1.0
+1430,Main Street,member,e-bike ,52.0,19.1,-999.0
+1348,Library,casual,Classic ,37.0,12.2,5.0
+1205,North Gate,member,Classic ,16.0,9.5,-999.0
+1186,gym,MEMBER ,e-bike ,39.0,12.0,-999.0
+1160,NORTH GATE,Member ,Classic,49.0,8.2,-999.0
+1390,Main St,Member ,classic,39.0,-999.0,-999.0
+1117,GYM ,member,E-bike,31.0,2.0,2.0
+1274,Main Street,CASUAL,Classic ,20.0,30.9,-999.0
+1238,Gym, casual,CLASSIC,42.0,27.3,-999.0
+1275,N. Gate,member,e-bike ,17.0,22.0,-999.0
+1122,Gym,Member,classic,48.0,19.4,-999.0
+1476,Main St,CASUAL,E-bike,33.0,12.8,-999.0
+1210,NORTH GATE,MEMBER ,E-bike,16.0,34.1,3.0
+1382,gym ,member,CLASSIC,31.0,23.6,-999.0
+1178,Library,CASUAL,classic,41.0,27.1,2.0
+1203,Rec Center, casual,CLASSIC,32.0,6.9,1.0
+1287, MAIN ST, casual,E-bike,16.0,18.6,-999.0
+1289,Main St,Casual,electric,31.0,9.8,-999.0
+1430,Main Street,member,e-bike ,52.0,19.1,-999.0
+1169,Gym,Casual,classic,42.0,12.1,-999.0
+1237,Main St,MEMBER ,Classic,32.0,31.0,-999.0
+1419, MAIN ST,MEMBER ,Classic ,37.0,41.7,-999.0
+1326, MAIN ST,member,classic,24.0,15.7,-999.0
+1119,Library,Member ,Electric,16.0,7.5,-999.0
+1331,Main Street, casual,Electric,16.0,26.9,4.0
+1084,Library,CASUAL,classic,17.0,13.5,-999.0
+1374,LIBRARY,member,electric,18.0,27.0,-999.0
+1371,North Gate,CASUAL,classic,30.0,15.3,1.0
+1228,gym ,casual,Classic ,37.0,23.5,1.0
+1062,Library,member,Electric,-999.0,12.8,-999.0
+1156,north gate ,Casual,Classic ,32.0,5.8,2.0
+1367,gym,MEMBER ,electric,16.0,5.8,5.0
+1191,North Gate,Casual,CLASSIC,-999.0,19.7,-999.0
+1187,Library, casual,E-bike,22.0,9.3,4.0
+1060,Lib.,CASUAL,E-bike,23.0,11.8,-999.0
+1330,main st,casual,Classic ,24.0,10.6,-999.0
+1106,Library,CASUAL,CLASSIC,30.0,14.8,-999.0
+1056,LIBRARY,Member,Classic,33.0,32.1,-999.0
+1463,Library,MEMBER ,classic,18.0,31.9,-999.0
+1158,LIBRARY,member,classic,25.0,24.6,-999.0
+1057, MAIN ST,Member,e-bike ,36.0,7.9,-999.0
+1387,Main Street,member,Classic ,35.0,-999.0,1.0
+1176,Gym, casual,electric,29.0,29.8,-999.0
+1089,Main St,Member,Classic ,31.0,23.1,3.0
+1285,gym ,casual,electric,33.0,2.0,-999.0
+1025,main st.,Casual,e-bike ,27.0,8.5,5.0
+1115,NORTH GATE,member,e-bike ,67.0,13.0,-999.0
+1140,Main St,member,e-bike ,26.0,13.6,3.0
+1425,Gym, casual,CLASSIC,25.0,10.8,-999.0
+1032,main st.,Member ,e-bike ,33.0,15.1,3.0
+1383,Gym,member,electric,40.0,23.6,1.0
+1154,Lib.,member,classic,19.0,23.7,4.0
+1171,Library,Casual,CLASSIC,27.0,36.8,5.0
+1383,Gym,member,electric,40.0,23.6,1.0
+1283,Main St,Member,Classic ,28.0,39.0,-999.0
+1458,Main Street,member,classic,40.0,37.7,-999.0
+1167, MAIN ST, casual,electric,28.0,11.8,-999.0
+1407,library ,Member ,Classic ,28.0,13.9,-999.0
+1478,Rec Center,Member ,Classic ,-999.0,26.8,4.0
+1197,Library,member,Classic ,40.0,27.6,-999.0
+1129,library,CASUAL,Electric,41.0,2.1,-999.0
+1147,main st.,CASUAL,Classic,20.0,25.0,-999.0
+1124,main st.,Member ,E-bike,37.0,4.8,4.0
+1202,NORTH GATE,MEMBER ,Electric,-999.0,14.3,-999.0
+1357,Main St,casual,electric,35.0,9.7,3.0
+1292,Library,casual,electric,38.0,7.8,-999.0
+1271,Rec Center,Member ,Electric,29.0,7.6,4.0
+1099,Main Street,Casual,classic,47.0,18.7,-999.0
+1121,GYM ,member,Classic,38.0,-999.0,4.0
+1426,Library, casual,CLASSIC,23.0,10.4,-999.0
+1181,Gym,MEMBER ,Classic ,31.0,24.8,3.0
+1431,Library,Member,Classic,35.0,25.7,3.0
+1341,gym ,Casual,electric,-999.0,-999.0,3.0
+1147,main st.,CASUAL,Classic,20.0,25.0,-999.0
+1212,North Gate,Member,Classic ,30.0,24.1,-999.0
+1377,Rec Center, casual,classic,29.0,12.2,-999.0
+1362, MAIN ST,MEMBER ,electric,23.0,-999.0,-999.0
+1267,North Gate,Member,Classic,22.0,32.9,-999.0
+1262,Gym, casual,classic,50.0,13.3,-999.0
+1261,main st., casual,CLASSIC,23.0,27.5,-999.0
+1379,Main St,Member ,Classic ,-999.0,21.4,4.0
+1109,Main Street,Member ,Classic,40.0,17.7,4.0
+1288,Main St,Member,classic,38.0,11.8,-999.0
+1004,gym, casual,CLASSIC,24.0,15.8,-999.0
+1204,Library,Member ,Classic,43.0,28.5,-999.0
+1360,Main St,Member,CLASSIC,28.0,6.2,-999.0
+1083,Lib., casual,Electric,37.0,9.9,-999.0
+1272,Library,casual,electric,42.0,35.3,3.0
+1054, MAIN ST,Member ,Classic ,30.0,21.1,-999.0
+1273,Library,Member ,electric,28.0,30.4,-999.0
+1085,main st,MEMBER ,e-bike ,47.0,11.3,-999.0
+1463,Library,MEMBER ,classic,18.0,31.9,-999.0
+1180,Main St,Casual,CLASSIC,28.0,36.5,-999.0
+1139,Main St,Member,Classic ,41.0,42.1,-999.0
+1245,Main St,casual,electric,21.0,14.1,-999.0
+1469,gym ,Member,Classic,44.0,15.2,-999.0
+1244, MAIN ST,Member,Classic,34.0,8.8,2.0
+1075,north gate ,Casual,Classic ,37.0,22.5,-999.0
+1410,Main Street,CASUAL,e-bike ,31.0,7.2,-999.0
+1395,main st., casual,Electric,21.0,43.0,-999.0
+1333,North Gate,casual,electric,19.0,11.1,1.0
+1339,North Gate,Member ,electric,36.0,23.2,-999.0
+1024,NORTH GATE,Member ,e-bike ,47.0,6.7,1.0
+1141,Main Street,Casual,classic,42.0,67.5,-999.0
+1155,North Gate,CASUAL,Classic ,55.0,15.3,-999.0
+1303,NORTH GATE,MEMBER ,CLASSIC,24.0,29.2,4.0
+1192,LIBRARY,Casual,classic,23.0,12.6,1.0
+1409,gym,member,Classic,46.0,23.8,-999.0
+1019,Library,CASUAL,Classic ,37.0,7.7,-999.0
+1417,Lib.,casual,e-bike ,49.0,3.4,-999.0
+1051,gym ,member,classic,16.0,25.9,2.0
+1039,NORTH GATE,member,electric,23.0,10.8,-999.0
+1194,North Gate,casual,classic,22.0,22.7,5.0
+1304,Lib.,member,Classic ,24.0,26.0,-999.0
+1189,Main St,Member,e-bike ,36.0,24.5,-999.0
+1412,Main St,casual,CLASSIC,34.0,7.4,-999.0
+1066,Main St,member,Electric,42.0,34.9,4.0
+1343,library ,Casual,Classic ,40.0,13.3,-999.0
+1215,library , casual,electric,33.0,24.2,-999.0
+1006,main st.,MEMBER ,E-bike,33.0,6.6,-999.0
+1076, MAIN ST,CASUAL,Classic,50.0,9.0,-999.0
+1143,main st.,casual,Classic,33.0,37.1,2.0
+1048,GYM ,Casual,classic,16.0,20.8,-999.0
+1047, MAIN ST,Casual,Classic ,29.0,26.8,-999.0
+1071,main st.,casual,e-bike ,20.0,8.2,-999.0
+1132,Library,Member,classic,37.0,21.3,-999.0
+1080,Main Street,Member,e-bike ,16.0,14.7,-999.0
+1031,Lib.,Member ,E-bike,28.0,10.5,-999.0
+1012,Gym,Member ,classic,21.0,18.3,-999.0
+1378,Library,Member,Classic ,24.0,16.4,-999.0
+1407,library ,Member ,Classic ,28.0,13.9,-999.0
+1464,Library, casual,Classic ,30.0,27.0,-999.0
+1282,library,Member,e-bike ,43.0,23.7,-999.0
+1116,Gym,casual,CLASSIC,21.0,20.5,2.0
+1026, MAIN ST,Member ,Classic ,-999.0,25.0,5.0
+1394,Gym,Member ,Classic ,-999.0,29.8,-999.0
+1196,North Gate,CASUAL,electric,31.0,18.5,-999.0
+1225,library , casual,CLASSIC,23.0,21.1,-999.0
+1470,library ,casual,classic,-999.0,7.3,4.0
+1446,north gate, casual,Classic,16.0,40.5,1.0
+1066,Main St,member,Electric,42.0,34.9,4.0
+1457, MAIN ST,Member,CLASSIC,49.0,19.2,-999.0
+1046,north gate , casual,CLASSIC,40.0,30.6,-999.0
+1455,library, casual,E-bike,38.0,12.6,3.0
+1324,Main Street,MEMBER ,classic,29.0,12.7,-999.0
+1170,LIBRARY,member,electric,-999.0,13.2,2.0
+1314,Library,CASUAL,Classic,40.0,33.3,4.0
+1427, MAIN ST,Casual,Classic,31.0,-999.0,-999.0
+1397,Main St,member,e-bike ,36.0,20.0,-999.0
+1180,Main St,Casual,CLASSIC,28.0,36.5,-999.0
+1094, MAIN ST,member,electric,-999.0,7.3,-999.0
+1280,Main St,member,Classic,31.0,10.4,-999.0
+1069,Main Street,CASUAL,Classic,20.0,10.1,-999.0
+1022,library,Member ,Classic ,22.0,12.7,4.0
+1078,LIBRARY,CASUAL,Classic ,33.0,15.4,-999.0
+1321,NORTH GATE,Member ,Classic,30.0,36.3,-999.0
+1477,GYM ,CASUAL,Classic ,37.0,38.9,-999.0
+1237,Main St,MEMBER ,Classic,32.0,31.0,-999.0
+1305,north gate, casual,CLASSIC,38.0,21.6,3.0
+1299,Main St,Member ,Classic ,31.0,28.4,5.0
+1126,North Gate,Casual,CLASSIC,16.0,27.0,-999.0
+1229,Gym,Member,Electric,40.0,28.4,-999.0
+1352,Library,MEMBER ,electric,19.0,34.7,-999.0
+1043,N. Gate,MEMBER ,CLASSIC,38.0,-999.0,-999.0
+1005,North Gate,MEMBER ,CLASSIC,37.0,6.5,-999.0
+1329,North Gate,Casual,classic,-999.0,40.1,2.0
+1065,main st.,Member ,Classic ,32.0,23.1,2.0
+1350,gym, casual,Electric,36.0,7.4,-999.0
+1110,Library,casual,CLASSIC,27.0,24.8,5.0
+1256, MAIN ST,CASUAL,CLASSIC,27.0,41.5,-999.0
+1295,Rec Center,member,E-bike,23.0,-999.0,-999.0
+1206,Main St,Casual,E-bike,29.0,14.0,-999.0
+1148,gym,Casual,Classic,27.0,17.4,-999.0
+1007,Main St,Casual,E-bike,31.0,4.8,-999.0
+1478,Rec Center,Member ,Classic ,-999.0,26.8,4.0
+1322,Main St,Member ,e-bike ,31.0,29.3,-999.0
+1260,gym,Member,e-bike ,16.0,20.5,-999.0
+1123,NORTH GATE,Member,Classic ,52.0,15.2,4.0
+1079,Library,Member ,e-bike ,23.0,8.1,3.0
+1444,North Gate,Member,Classic,19.0,12.0,5.0
+1396, MAIN ST,Member ,Classic ,48.0,24.8,-999.0
+1152,LIBRARY,CASUAL,Classic,44.0,-999.0,-999.0
+1318,Library,CASUAL,Classic,31.0,9.3,-999.0
+1164,main st.,casual,electric,23.0,6.6,-999.0
+1359,main st,MEMBER ,CLASSIC,25.0,13.5,-999.0
+1266,Gym,casual,classic,41.0,28.5,-999.0
+1398,main st,member,classic,-999.0,10.2,-999.0
+1344,Main St,casual,classic,34.0,5.6,-999.0
+1279,Lib.,casual,Classic,27.0,11.9,-999.0
+1144, MAIN ST, casual,classic,26.0,23.1,1.0
+1315,library ,Member ,Classic ,16.0,20.0,3.0
+1194,North Gate,casual,classic,22.0,22.7,5.0
+1200,main st,Casual,CLASSIC,-999.0,35.0,-999.0
+1042,Main St,member,E-bike,16.0,14.7,-999.0
+1435,library,Casual,Classic ,41.0,36.2,1.0
+1428,LIBRARY,casual,Classic,16.0,44.3,2.0
+1356,Main St,member,e-bike ,20.0,17.5,-999.0
+1232,main st.,MEMBER ,e-bike ,44.0,5.2,3.0
+1246,Main St,MEMBER ,CLASSIC,30.0,22.6,1.0
+1403,GYM ,MEMBER ,Classic,16.0,19.8,4.0
+1355,gym,Member,electric,27.0,36.3,-999.0
+1335,Gym,casual,electric,33.0,17.0,1.0
+1264,Gym,Casual,Classic,29.0,12.0,-999.0
+1030,Main Street,MEMBER ,E-bike,37.0,4.7,-999.0
+1239,main st,casual,Electric,33.0,14.5,-999.0
+1251,north gate,MEMBER ,E-bike,27.0,27.7,3.0
+1163, MAIN ST,Member ,CLASSIC,-999.0,-999.0,-999.0
+1150,Gym,Member ,e-bike ,24.0,10.4,-999.0
+1404,GYM ,CASUAL,CLASSIC,32.0,8.2,-999.0
+1400,Gym, casual,e-bike ,34.0,10.5,-999.0
+1095,gym,Member ,Classic,27.0,15.7,-999.0
+1442,Main St,Casual,Classic ,-999.0,27.5,1.0
+1222,library ,casual,Classic ,28.0,22.4,3.0
+1086,Library,MEMBER ,Electric,-999.0,17.3,-999.0
+1188, MAIN ST,Member,electric,-999.0,22.3,3.0
+1090,Main Street,Member,classic,43.0,13.5,-999.0
+1346,Gym,member,e-bike ,22.0,9.8,-999.0
+1035,Gym,Member,Classic,-999.0,40.2,3.0
+1218,GYM ,member,e-bike ,41.0,14.2,-999.0
+1073,Main Street, casual,Classic,-999.0,16.8,-999.0
+1306,N. Gate,CASUAL,e-bike ,32.0,8.8,-999.0
+1221,Gym,Casual,e-bike ,26.0,9.1,-999.0
+1410,Main Street,CASUAL,e-bike ,31.0,7.2,-999.0
+1453,library,Member,Classic,31.0,12.9,-999.0
+1091, MAIN ST,CASUAL,Classic ,31.0,24.6,-999.0
+1013, MAIN ST,Member ,classic,27.0,13.3,-999.0
+1199,Main St,member,Classic,33.0,25.1,4.0
+1214, MAIN ST,Member ,classic,16.0,7.9,-999.0
+1471,main st.,member,e-bike ,23.0,6.3,-999.0
+1235,Rec Center,casual,Electric,42.0,15.7,-999.0
+1473,gym,Member ,e-bike ,30.0,34.1,-999.0
+1474,Main Street,MEMBER ,Classic,23.0,7.0,-999.0
+1418,Gym,member,E-bike,33.0,6.0,3.0
+1097,N. Gate,CASUAL,classic,30.0,14.0,5.0
+1453,library,Member,Classic,31.0,12.9,-999.0
+1298,Library,member,Classic ,25.0,44.6,-999.0
+1064,North Gate, casual,CLASSIC,33.0,17.1,-999.0
+1223,Gym,CASUAL,Electric,23.0,6.0,-999.0
+1096, MAIN ST,Casual,Classic ,24.0,9.6,-999.0
+1014,Library,casual,electric,30.0,12.9,1.0
+1328,gym,Member,Classic,20.0,12.6,-999.0
+1018,Gym,MEMBER ,E-bike,45.0,8.0,-999.0
+1388,Library,MEMBER ,E-bike,46.0,10.9,-999.0
+1247,main st,MEMBER ,CLASSIC,24.0,11.2,1.0
+1416,North Gate,Member,CLASSIC,38.0,11.8,-999.0
+1208,main st,member,Classic ,18.0,39.9,-999.0
+1091, MAIN ST,CASUAL,Classic ,31.0,24.6,-999.0
+1308,LIBRARY,casual,Classic,28.0,41.4,1.0
+1462, MAIN ST,MEMBER ,Electric,23.0,14.0,-999.0
+1345,LIBRARY,Member,CLASSIC,26.0,5.6,-999.0
+1447,Lib.,Member,Classic ,47.0,16.0,-999.0
+1386,library ,casual,E-bike,-999.0,5.9,3.0
+1040,Main St,Member,Electric,45.0,56.6,-999.0
+1087,Main Street,Member,classic,40.0,6.6,-999.0
+1182, MAIN ST,casual,Electric,39.0,19.1,-999.0
+1366,north gate ,member,classic,-999.0,6.3,-999.0
+1146,North Gate,Casual,e-bike ,21.0,7.7,-999.0
+1159,North Gate,CASUAL,electric,35.0,10.0,2.0
+1433,Main Street,CASUAL,electric,30.0,18.1,1.0
+1392,Rec Center,Member ,electric,36.0,15.3,-999.0
+1393,main st.,member,E-bike,29.0,10.7,-999.0
+1375,north gate ,MEMBER ,CLASSIC,35.0,21.5,-999.0
+1201,gym,CASUAL,CLASSIC,46.0,15.4,-999.0
+1293,Gym,Member ,CLASSIC,21.0,10.3,-999.0
+1349,Lib.,member,CLASSIC,32.0,27.3,-999.0
+1072,Main St,MEMBER ,Classic,30.0,-999.0,-999.0
+1408,Main St,Casual,Classic,25.0,13.1,-999.0
+1445,main st,Member ,electric,20.0,15.5,-999.0
+1389,LIBRARY,member,CLASSIC,29.0,7.6,3.0
+1420,LIBRARY,casual,electric,33.0,-999.0,-999.0
+1334,Main St,MEMBER ,classic,22.0,-999.0,-999.0
+1090,Main Street,Member,classic,43.0,13.5,-999.0
+1352,Library,MEMBER ,electric,19.0,34.7,-999.0
+1443,N. Gate,CASUAL,Electric,-999.0,12.2,-999.0
+1134, MAIN ST,MEMBER ,Classic,48.0,20.3,-999.0
+1061,Library,CASUAL,Electric,22.0,-999.0,-999.0
+1402,North Gate,CASUAL,electric,50.0,10.5,4.0
+1422,N. Gate,MEMBER ,e-bike ,50.0,30.0,-999.0
+1101,Main Street,casual,Electric,40.0,16.1,-999.0
+1020,main st.,casual,Classic,25.0,29.8,-999.0
+1411,Main St,MEMBER ,Classic ,46.0,17.0,4.0
+1274,Main Street,CASUAL,Classic ,20.0,30.9,-999.0
+1265,Lib.,casual,e-bike ,16.0,3.6,3.0
+1277,gym,Member,Classic ,28.0,11.0,3.0
+1009,library ,MEMBER ,classic,-999.0,7.9,-999.0
+1364,Gym,member,CLASSIC,-999.0,17.3,1.0
+1310,Library,MEMBER ,e-bike ,24.0,11.6,2.0
+1284,Main Street,Member ,Classic,37.0,10.5,-999.0
+1377,Rec Center, casual,classic,29.0,12.2,-999.0
+1093,LIBRARY,member,electric,55.0,21.8,-999.0
+1253, MAIN ST,casual,Classic ,31.0,18.4,-999.0
+1033,N. Gate,casual,electric,29.0,22.0,-999.0
+1136,Lib.,CASUAL,e-bike ,36.0,16.2,3.0
+1023,Main St,Member ,classic,46.0,15.7,-999.0
+1063,library ,Casual,Electric,45.0,2.0,2.0
+1149,Main St,member,e-bike ,33.0,27.4,-999.0
+1216,gym , casual,Electric,52.0,5.0,-999.0
+1438,library,Casual,classic,27.0,14.9,-999.0
+1450,main st.,MEMBER ,Classic,18.0,11.4,-999.0
+1258,North Gate,casual,CLASSIC,30.0,7.0,-999.0
+1053,Main St, casual,Classic,43.0,13.3,-999.0
+1439,library ,MEMBER ,E-bike,33.0,13.6,4.0
+1174,main st.,CASUAL,Electric,19.0,5.9,-999.0
+1036,Lib.,Member,Electric,18.0,4.4,3.0
+1179,Main St,Member ,Classic ,41.0,12.1,5.0
+1168,Lib.,CASUAL,e-bike ,36.0,18.3,-999.0
+1227,Library, casual,classic,34.0,33.8,2.0
+1121,GYM ,member,Classic,38.0,-999.0,4.0
+1451,main st.,MEMBER ,e-bike ,49.0,29.0,1.0
+1276,Library,Casual,classic,29.0,31.8,-999.0
+1045,Lib.,CASUAL,E-bike,27.0,17.6,-999.0
+1301,Rec Center,Casual,e-bike ,18.0,12.5,-999.0
+1325,Library,CASUAL,Classic ,30.0,18.0,3.0
+1077,Rec Center,member,CLASSIC,18.0,14.3,2.0
+1209, MAIN ST,member,Classic ,30.0,19.1,-999.0
+1369,Gym,member,classic,25.0,21.6,-999.0
+1395,main st., casual,Electric,21.0,43.0,-999.0
+1213,Lib., casual,E-bike,-999.0,5.1,-999.0
+1268,library ,member,electric,45.0,26.5,4.0
+1312,Library,casual,Classic,30.0,19.9,3.0
+1217,Main Street,member,E-bike,28.0,7.9,3.0
+1465,North Gate,member,electric,30.0,-999.0,-999.0
+1010,Main Street,member,Classic ,49.0,42.9,2.0
+1432,north gate,Member ,e-bike ,39.0,25.7,-999.0
+1452,North Gate,member,electric,17.0,15.8,-999.0
+1286,main st.,Member,e-bike ,23.0,12.7,-999.0
+1296,gym ,member,classic,28.0,40.7,-999.0
+1105,gym ,member,CLASSIC,40.0,27.2,-999.0
+1313,Main St,Casual,Classic,27.0,16.0,1.0
+1464,Library, casual,Classic ,30.0,27.0,-999.0
+1278,Main St,Member,Classic ,-999.0,34.4,2.0
+1092,Main Street,Casual,CLASSIC,37.0,22.2,1.0
+1183,NORTH GATE,CASUAL,electric,26.0,17.3,2.0
+1316,Lib.,Member,classic,20.0,25.0,3.0
+1142,main st,Member,Classic,16.0,27.7,-999.0
+1173,North Gate,member,electric,48.0,-999.0,1.0
+1233,main st.,Member,Electric,29.0,26.1,-999.0
+1285,gym ,casual,electric,33.0,2.0,-999.0
+1037,Library,casual,Electric,37.0,15.3,4.0
+1157,NORTH GATE,CASUAL,Classic ,26.0,7.4,-999.0
+1003,Main Street,CASUAL,electric,32.0,10.9,-999.0
+1243,Library,Member ,electric,-999.0,38.6,-999.0
+1309, MAIN ST,CASUAL,E-bike,31.0,10.5,3.0
+1290,north gate,CASUAL,Classic ,46.0,18.0,-999.0
+1049,Main St,Member,E-bike,24.0,40.0,-999.0
+1415,north gate,Casual,CLASSIC,32.0,42.7,-999.0
+1422,N. Gate,MEMBER ,e-bike ,50.0,30.0,-999.0
+1142,main st,Member,Classic,16.0,27.7,-999.0
+1224,Library,CASUAL,CLASSIC,16.0,11.3,-999.0
+1353,Main St,Member ,Classic,25.0,22.0,-999.0
+1184, MAIN ST,Member,Classic,36.0,53.5,-999.0
+1332,Main St,Member ,CLASSIC,25.0,-999.0,-999.0
+1240,gym ,Member,e-bike ,29.0,29.3,-999.0
+1454,library ,Casual,e-bike ,34.0,2.0,-999.0
+1161,Gym,Member,Classic ,42.0,30.8,-999.0
+1337,main st, casual,Classic ,33.0,18.1,5.0
+1401,Main Street,MEMBER ,CLASSIC,52.0,18.5,-999.0
+1220,North Gate,member,Classic,16.0,33.1,-999.0
+1100,gym,member,Electric,20.0,-999.0,2.0
+1381,North Gate,Member,Classic,30.0,24.2,-999.0
+1236,main st,Member,classic,21.0,13.2,-999.0
+1459,Main Street,Member,Electric,-999.0,19.1,-999.0
+1479,Main Street,CASUAL,Electric,20.0,10.0,-999.0
+1118,north gate,member,Classic ,19.0,20.8,-999.0
+1342,North Gate,member,E-bike,31.0,21.5,1.0
+1002,Main St,member,E-bike,36.0,12.6,2.0
+1114,Main Street,casual,Electric,20.0,8.8,-999.0
+1294,Library,Member ,CLASSIC,27.0,13.1,-999.0
+1175,N. Gate,member,E-bike,32.0,15.7,-999.0
+1254, MAIN ST, casual,Electric,31.0,15.5,-999.0
+1472,Main St, casual,CLASSIC,42.0,6.6,-999.0
+1456,gym,Casual,classic,33.0,9.2,-999.0
+1441,gym ,MEMBER ,Classic ,47.0,16.6,-999.0
+1185,main st.,Member ,CLASSIC,33.0,16.4,-999.0
+1166,main st., casual,Classic ,37.0,18.9,-999.0
+1195,North Gate,Member,CLASSIC,35.0,34.3,-999.0
+1373,Main St, casual,CLASSIC,27.0,19.1,-999.0
+1275,N. Gate,member,e-bike ,17.0,22.0,-999.0
+1193,Gym,CASUAL,E-bike,-999.0,6.9,-999.0
+1001,gym ,casual,electric,20.0,24.6,4.0
+1055,Main St,Casual,E-bike,46.0,14.1,-999.0
+1376,main st,casual,Classic ,34.0,25.3,1.0
+1029, MAIN ST,member,Electric,26.0,9.9,-999.0
+1207,North Gate, casual,classic,27.0,8.6,-999.0
+1384,Library,CASUAL,CLASSIC,49.0,21.7,-999.0
+1406,N. Gate,CASUAL,electric,-999.0,12.6,-999.0
+1050, MAIN ST,MEMBER ,Classic ,30.0,16.8,1.0
+1351,Main Street,member,e-bike ,35.0,33.5,-999.0
+1021,Main St,Casual,classic,16.0,22.3,-999.0
+1294,Library,Member ,CLASSIC,27.0,13.1,-999.0
+1177,NORTH GATE,casual,E-bike,42.0,24.8,-999.0
+1336,NORTH GATE,casual,e-bike ,39.0,16.3,3.0
+1380,Rec Center,MEMBER ,Classic,24.0,17.1,-999.0
+1034,Main St,Member ,Classic ,42.0,16.5,-999.0
+1172,Rec Center,casual,Classic ,16.0,6.4,-999.0
+1008,main st.,casual,Electric,22.0,39.5,-999.0
+1319, MAIN ST,member,Classic,30.0,24.0,-999.0
+1153,Main Street,casual,CLASSIC,23.0,12.2,-999.0
+1107,Main Street,Member ,E-bike,44.0,11.2,-999.0
+1414,main st,Member ,Classic ,30.0,18.6,-999.0
+1098,Library,member,e-bike ,26.0,-999.0,-999.0
+1111,main st.,MEMBER ,classic,33.0,44.4,-999.0
+1361,Gym, casual,e-bike ,36.0,2.1,-999.0
+1070,Main St,Member,CLASSIC,30.0,30.3,-999.0
+1347,Library,MEMBER ,Electric,30.0,15.3,-999.0
+1436,gym ,Member,classic,26.0,12.1,-999.0
+1130,library ,Member,E-bike,27.0,22.2,-999.0
+1317,gym ,casual,CLASSIC,18.0,22.3,-999.0
+1448,Gym,Member,classic,29.0,20.1,4.0
+1259,north gate,Member ,classic,32.0,16.0,-999.0
+1323,Main St,member,Electric,45.0,7.1,-999.0
+1151, MAIN ST,MEMBER ,Classic ,35.0,31.6,-999.0
+1475,NORTH GATE, casual,e-bike ,25.0,17.0,-999.0
+1338,Main St,MEMBER ,Classic,42.0,17.7,1.0
+1027,north gate ,MEMBER ,E-bike,32.0,7.6,4.0
+1203,Rec Center, casual,CLASSIC,32.0,6.9,1.0
+1399,Main St,CASUAL,e-bike ,22.0,14.9,-999.0
+1424,north gate , casual,Electric,28.0,16.9,3.0
+1119,Library,Member ,Electric,16.0,7.5,-999.0
+1423,Main St,casual,electric,31.0,8.5,1.0
+1120, MAIN ST,Member,CLASSIC,22.0,14.7,-999.0
+1257,Main St,Member ,Electric,49.0,35.2,-999.0
+1250,main st.,Member,E-bike,36.0,28.9,-999.0
